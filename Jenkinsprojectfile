@@ -53,6 +53,8 @@ pipeline {
                 
                 // Send Slack notification
                 // slackSend(channel: 'devopsrocks9am', message: "Deployment to PROD has been approved by manager.")
+                // Send Mail Notification
+                mail bcc: '', body: 'Please approve the prod build stage for successful client deployment', cc: 'pratikme12@gmail.com', from: '', replyTo: '', subject: 'Approve Prod Build', to: 'pratik.meshram@neudesic.com'
             }
         }
     }
