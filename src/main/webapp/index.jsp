@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Rajinikanth Jenkins Final changes Master Branch </h1>
+    <h1>Welcome to Pratik Jenkins Final changes to Master Branch </h1>
     <h2>Menu</h2>
 
     <div id="menu">
