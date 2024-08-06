@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to deployment of Dev Branch </h1>
+    <h1>Welcome to Jenkins deployment of Dev Branch </h1>
     <h2>Menu</h2>
 
     <div id="menu">
